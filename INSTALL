@@ -1,0 +1,9 @@
+Building TongHuiBi
+
+See doc/readme-qt.rst for instructions on building TongHuiBi QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TongHuiBi.
+
+See doc/build-*.txt for instructions on building TongHuiBid,
+the intended-for-services, no-graphical-interface, reference
+implementation of TongHuiBi.
